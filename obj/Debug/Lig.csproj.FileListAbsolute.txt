@@ -1,0 +1,22 @@
+C:\Users\oktay\Documents\Ybs\C#\Lig\bin\Debug\Lig.exe.config
+C:\Users\oktay\Documents\Ybs\C#\Lig\bin\Debug\Lig.exe
+C:\Users\oktay\Documents\Ybs\C#\Lig\bin\Debug\Lig.pdb
+C:\Users\oktay\Documents\Ybs\C#\Lig\obj\Debug\Lig.Form1.resources
+C:\Users\oktay\Documents\Ybs\C#\Lig\obj\Debug\Lig.Properties.Resources.resources
+C:\Users\oktay\Documents\Ybs\C#\Lig\obj\Debug\Lig.csproj.GenerateResource.cache
+C:\Users\oktay\Documents\Ybs\C#\Lig\obj\Debug\Lig.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Documents\Ybs\C#\Lig\obj\Debug\Lig.exe
+C:\Users\oktay\Documents\Ybs\C#\Lig\obj\Debug\Lig.pdb
+C:\Users\oktay\Documents\Ybs\C#\Lig\obj\Debug\Lig.csprojAssemblyReference.cache
+C:\Users\oktay\Documents\Ybs\C#\Lig\obj\Debug\Lig.Form2.resources
+E:\C# Programlama\Lig\bin\Debug\Lig.exe.config
+E:\C# Programlama\Lig\bin\Debug\Lig.exe
+E:\C# Programlama\Lig\bin\Debug\Lig.pdb
+E:\C# Programlama\Lig\obj\Debug\Lig.csprojAssemblyReference.cache
+E:\C# Programlama\Lig\obj\Debug\Lig.Form1.resources
+E:\C# Programlama\Lig\obj\Debug\Lig.Form2.resources
+E:\C# Programlama\Lig\obj\Debug\Lig.Properties.Resources.resources
+E:\C# Programlama\Lig\obj\Debug\Lig.csproj.GenerateResource.cache
+E:\C# Programlama\Lig\obj\Debug\Lig.csproj.CoreCompileInputs.cache
+E:\C# Programlama\Lig\obj\Debug\Lig.exe
+E:\C# Programlama\Lig\obj\Debug\Lig.pdb
